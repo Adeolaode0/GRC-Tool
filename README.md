@@ -10,4 +10,3 @@ Control Details:  <br/>
 <br />
 Assessment:  <br/>
 <img src="https://i.imgur.com/e7FYfQY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /># GRC-Tool
